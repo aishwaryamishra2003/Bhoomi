@@ -51,7 +51,8 @@ npm install
 npm start
 ```
 ## 📸 Screenshots
-![Screenshot](ScreenShot/Screenshot 2026-01-31 221948.png)
+![Screenshot](ScreenShot/screenshot-2026-01-31.png)
+
 
 
 
