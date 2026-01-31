@@ -51,5 +51,5 @@ npm install
 npm start
 ```
 ## 📸 Screenshots
-![Screenshot](FERTILIZER/Screenshot/Screenshot-2026-01-31-221948.png)
+![Screenshot](fertilizer_Frontend/Screenshot/screenshot-2026-01-31.png)
 
