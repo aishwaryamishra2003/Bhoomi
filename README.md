@@ -1,5 +1,5 @@
 # 🌾 Bhoomi
-
+ 
 > A smart and intuitive web app that helps farmers receive fertilizer recommendations based on crop type, soil conditions, and real-time weather data.
 
 ---
